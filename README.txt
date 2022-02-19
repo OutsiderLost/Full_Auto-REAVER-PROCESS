@@ -12,7 +12,7 @@ Install:
 (other addiction)
 git clone https://github.com/hash3liZer/wifijammer.git
 
-git clone https://github.com/OutsiderLost/WPS-Reset-mdk3.git
+git clone https://github.com/OutsiderLost/Full_Auto-REAVER-PROCESS.git
 
 cd Full_Auto-REAVER-PROCESS
 
