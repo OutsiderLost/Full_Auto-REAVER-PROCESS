@@ -19,9 +19,9 @@ cd Full_Auto-REAVER-PROCESS
 chmod +x *.sh
 
 (optional 2nd method)
-unzip Full_Auto-REAVER-PROCESS-B_type.zip && rm Full_Auto-REAVER-PROCESS-B_type.zip
+cd Full_Auto-REAVER-PROCESS-B_type
 
-chmod +x Full_Auto-REAVER-PROCESS-B_type/*.sh
+chmod +x *.sh
 
 -----------------------------
 
